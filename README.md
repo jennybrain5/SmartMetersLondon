@@ -1,7 +1,7 @@
 # SMART METERS IN LONDON CITY
 Big data and data analytics for AMI data, case study for smart Meters in London city. 
 This is the result of the application of big data techniques and advanced analytics to AMI data from smart energy meters in London City.
-Raw data is available in [Smart Meters London Datastore] (https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households).
+Raw data is available in [Smart Meters London Datastore](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households).
 
 ## Descriptive Analytics
 All descriptive analysis is available through two [Tableau] (https://www.tableau.com/en-gb) dashboards
